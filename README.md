@@ -9,4 +9,5 @@ Documentation can be found [here](https://github.com/TCNJSwEngg/fall13DBrepo1/wi
 
 ## Branching
 - master: for stable releases
-- develop: main development branch (branch from here)
+- develop: main development branch (branch from here), merged into master when stable
+- feature-<feature desc>: various branches for implementing each feature, branch from develop
