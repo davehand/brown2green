@@ -10,7 +10,7 @@ Create table person (
 
 Create table expert (
 	id integer,
-	area_of_expertice VARCHAR(64),
+	area_of_expertise VARCHAR(64),
 	title VARCHAR(64),
 	CONSTRAINT person_id_fkey FOREIGN KEY (id) REFERENCES person (id) on delete cascade 
 );
