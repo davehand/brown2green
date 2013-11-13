@@ -1,0 +1,1 @@
+python insert_data.py table_inserts/expert_table expert expert_table_data.sql

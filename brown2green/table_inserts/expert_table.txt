@@ -1,0 +1,61 @@
+area_of_expertice	title
+Public Health	Director
+Public Health	Associate Director For Communications And Public Liason
+Public Health	Media Contact
+Public Health	Bureau Director
+Environmental Sociology	Sociology Professor
+Green Chemistry	Chemistry Professor
+Biodegradable Materials	Chemistry Professor
+Environmental History	History Professor
+Pine Barrens Birds	Biology Professor
+Public Health	Sociology Professor
+Epidemiology	Sociology Professor
+Human Toxic Chemicals	Mathematics Professor
+Organic Contaminants	Chemistry Professor
+Biological Waste Treatment	Environmental Science Professor
+Environmental Justice	Director
+Solid Waste And Pesticide Enforcement	Director
+Solid Waste And Pesticide Enforcement	Administrative Support
+Solid Waste And Pesticide Enforcement	Supervisor
+Solid Waste And Pesticide Enforcement	Supervisor
+Solid Waste And Pesticide Enforcement	Supervisor
+Solid Waste And Pesticide Enforcement	Supervisor
+Licensing And Pesticide Operations	Support Staff
+Licensing And Pesticide Operations	Supervisor
+Water Waste And Licensing	Supervisor
+Water And Land Use Enforcement	Director
+Water And Land Use Enforcement	Bureau Chief
+Water And Land Use Enforcement	Supervisor
+Air And Hazardous Materials Enforcement	Operations Assistant
+Local Environmental Management	Support Staff
+Air Compliance And Enforcement	Supervisor
+Diesel Enforcement	Supervisor
+Air Compliance And Enforcement	Bureau Chief
+Public Health	Health Officer
+Environmental Protection	Commissioner
+Public Health	Principal Sanitary Inspector
+Public Health	Health Officer
+Clean Water	Director
+Environmental Justice	Protestor
+Hurricane Sandy	Journalist
+Nonprofits	Journalist
+Politics	Journalist
+Environmental Justice	Journalist
+Energy	Journalist
+Environmental Standards	Journalist
+Politics	Journalist
+Hurricane Sandy	Journalist
+Port Authority	Journalist
+Politics	Journalist
+Environmental Justice	Journalist
+Environmental and Land Use	Legal Expert
+Environmental and Land Use	Legal Expert
+Plant Health and Forestry	Legal Expert
+Environment	Legal Expert
+Environment	Legal Expert
+Environment	Legal Expert
+Environment	Legal Expert
+Environment	Legal Expert
+Environment	Legal Expert
+Environment	Legal Expert
+Plant Health and Forestry	Legal Expert

@@ -1,0 +1,59 @@
+name	phone	email	photo
+Main Press Line	404-639-3286	media@cdc.gov	
+John T. Burklow	301-496-5787		http://ocl.od.nih.gov/OCL_new/images/burklowimage.jpg
+Julie Willmot	609-278-7137		http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/0e3/00f/28f93c4.jpg
+William J Roth	215-345-3333	wjroth@co.bucks.pa.us	
+Tom Fox	609-265-5515	tfox@co.burlington.nj.us	
+Environmental Coordinator	732-745-3123		
+Diane Bates	609-771-3176	bates@tcnj.edu	http://sociology.pages.tcnj.edu/files/2011/07/bates.jpg
+Joanne Billmers	609-771-2957	billmers@tcnj.edu	http://science.pages.tcnj.edu/files/2012/03/billmers.png
+Matthew Bender	609-771-2158	bender@tcnj.edu	http://history.pages.tcnj.edu/files/2012/01/bender.jpg
+Luke Butler	609-771-2531	lbutler@tcnj.edu	https://www.tcnj.edu/~lbutler/Luke_K_Butler/Luke_K._Butler_files/ButlerHeadShot.jpg
+J Lynn Gazley	609-771-2930	gazley@tcnj.edu	http://sociology.pages.tcnj.edu/files/2012/08/Gazley-684x1024.jpg
+Leona A Harris	609-771-3084	harrisl@tcnj.edu	http://mathstat.pages.tcnj.edu/files/2011/06/leona.jpg
+Lisa Rodenburg	848-932-5774	rodenburg@envsci.rutgers.edu	http://envsci.rutgers.edu/~rodenburg/web%20page/viewfaculty_files/image004.jpg
+Peter Strom	848-932-5709	strom@envsci.rutgers.edu	http://envsci.rutgers.edu/images/strom.jpg
+Nicky Sheats	609-777-4351	nsheats@tesc.edu	http://weact.org/Portals/7/Sheats_Nicky_Headshot.JPG
+Knute Jensen	609-292-6704	capitallifetrenton@gmail.com	http://s3.amazonaws.com/everystockphoto/fspid30/10/29/22/53/fdujsg-10292253-o.jpg
+Andrea Holden	609-984-9656		
+Brian Petitt	609-341-5440		
+John Pitonyaj	609-984-6652		
+Edward Reilly	609-530-4097		
+Nancy Santiago	609-9846914		
+Fran Sgro	609-984-6923		
+Hollie Ezze	609-984-6666		
+Linda Cantwell	609-777-1009		
+Marcedius Jameson	609-984-2010		
+Lawrence Baier	609-292-1240		
+Pete Keledy	609-292-1240		
+Kamlo Si	609-633-7288		
+Kelly Erbe	609-292-1305		
+Thomas Morris	609-292-3133		
+Ralph Bitter	609-292-3187		
+Chris Odgers	609-292-3187		
+Sharon McNellis-Kissel	609-883-7695	sm11@njlincs.net	
+Bob Martin	609-292-2885		http://nj.gov/governor/library/admin/BobMartin.jpg
+Martin Moore	609-989-3280	mmoore@trentonnj.org	
+James A Brownlee	609-989-3242	jbrownlee@trentonnj.org	http://www.trentonnj.org/images/20120706-_MR493261.jpg
+Amy Goldsmith		agoldsmith@cleanwater.org	http://www.cleanwateraction.org/files/images/nj/staff/amy%20goldsmith.jpg
+Peter Montague	732-828-9995	erf@rachel.org	http://blog.nj.com/njv_bill_wolfe/2008/05/medium_IMG_4969.JPG
+Terri Gabriel		drn@delawareriverkeeper.org	
+Jeannette Rundquist			http://media.nj.com/avatars/3106.png
+Peggy McClone	973-392-5982	pmcglone@starledger.com	http://media.nj.com/avatars/2065.png
+Matt Friedman	609-989-0324	mfriedman@starledger.com	https://pbs.twimg.com/profile_images/378800000158261782/4acf544bcc617151354023d5a06b4a0f.jpeg
+Seth Augenstein	973-392-4169	saugenstein@starledger.com	http://media.nj.com/avatars/8847793.png
+Alexi Friedman	973-392-4147	afriedman@starledger.com	http://media.nj.com/avatars/2737.png
+Ben Horowitz			http://media.nj.com/avatars/5142.png
+Steve Strunsky	973-392-1544	sstrunsky@starledger.com	https://pbs.twimg.com/profile_images/2429237728/oeknbifad3dtctgha3ie.jpeg
+Stacie Servetah Sherman			https://pbs.twimg.com/profile_images/1309322309/photo.jpg
+Janine G Bauer	609-275-0400	JBauer@szaferman.com	http://njplanning.org/wp-content/uploads/Janine-Bauer-300x300.jpg
+Stuart J Lieberman	732-355-1311	SJL@LiebermanBlecher.com	http://www.liebermanblecher.com/liebermanblecher/img/attorneys/stuart-lieberman.jpg
+Bruce Winters	732-736-9591		
+Parker S Worthington	609-859-1412		
+Jan E Bisco Werner	609-298-2999		
+Wayne S Dubin	973-983-7511		
+Gary Lovallo	732-525-5656		
+Daniel Cornelius	609-758-1721		
+Dennis M Galway	908-696-9133		
+Lorraine M Konopka	073-276-0599		
+Drew C Mason	215-504-1159		
