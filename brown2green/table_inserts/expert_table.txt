@@ -1,61 +1,60 @@
-area_of_expertice	title
-Public Health	Director
-Public Health	Associate Director For Communications And Public Liason
-Public Health	Media Contact
-Public Health	Bureau Director
-Environmental Sociology	Sociology Professor
-Green Chemistry	Chemistry Professor
-Biodegradable Materials	Chemistry Professor
-Environmental History	History Professor
-Pine Barrens Birds	Biology Professor
-Public Health	Sociology Professor
-Epidemiology	Sociology Professor
-Human Toxic Chemicals	Mathematics Professor
-Organic Contaminants	Chemistry Professor
-Biological Waste Treatment	Environmental Science Professor
-Environmental Justice	Director
-Solid Waste And Pesticide Enforcement	Director
-Solid Waste And Pesticide Enforcement	Administrative Support
-Solid Waste And Pesticide Enforcement	Supervisor
-Solid Waste And Pesticide Enforcement	Supervisor
-Solid Waste And Pesticide Enforcement	Supervisor
-Solid Waste And Pesticide Enforcement	Supervisor
-Licensing And Pesticide Operations	Support Staff
-Licensing And Pesticide Operations	Supervisor
-Water Waste And Licensing	Supervisor
-Water And Land Use Enforcement	Director
-Water And Land Use Enforcement	Bureau Chief
-Water And Land Use Enforcement	Supervisor
-Air And Hazardous Materials Enforcement	Operations Assistant
-Local Environmental Management	Support Staff
-Air Compliance And Enforcement	Supervisor
-Diesel Enforcement	Supervisor
-Air Compliance And Enforcement	Bureau Chief
-Public Health	Health Officer
-Environmental Protection	Commissioner
-Public Health	Principal Sanitary Inspector
-Public Health	Health Officer
-Clean Water	Director
-Environmental Justice	Protestor
-Hurricane Sandy	Journalist
-Nonprofits	Journalist
-Politics	Journalist
-Environmental Justice	Journalist
-Energy	Journalist
-Environmental Standards	Journalist
-Politics	Journalist
-Hurricane Sandy	Journalist
-Port Authority	Journalist
-Politics	Journalist
-Environmental Justice	Journalist
-Environmental and Land Use	Legal Expert
-Environmental and Land Use	Legal Expert
-Plant Health and Forestry	Legal Expert
-Environment	Legal Expert
-Environment	Legal Expert
-Environment	Legal Expert
-Environment	Legal Expert
-Environment	Legal Expert
-Environment	Legal Expert
-Environment	Legal Expert
-Plant Health and Forestry	Legal Expert
+name	area_of_expertise	title
+Main Press Line	Public Health	Director
+John T. Burklow	Public Health	Associate Director For Communications And Public Liason
+Julie Willmot	Public Health	Media Contact
+William J Roth	Public Health	Bureau Director
+Diane Bates	Environmental Sociology	Sociology Professor
+Joanne Billmers	Green Chemistry	Chemistry Professor
+Joanne Billmers	Biodegradable Materials	Chemistry Professor
+Matthew Bender	Environmental History	History Professor
+Luke Butler	Pine Barrens Birds	Biology Professor
+J Lynn Gazley	Public Health	Sociology Professor
+J Lynn Gazley	Epidemiology	Sociology Professor
+Leona A Harris	Human Toxic Chemicals	Mathematics Professor
+Lisa Rodenburg	Organic Contaminants	Chemistry Professor
+Peter Strom	Biological Waste Treatment	Environmental Science Professor
+Nicky Sheats	Environmental Justice	Director
+Knute Jensen	Solid Waste And Pesticide Enforcement	Director
+Andrea Holden	Solid Waste And Pesticide Enforcement	Administrative Support
+Brian Petitt	Solid Waste And Pesticide Enforcement	Supervisor
+John Pitonyaj	Solid Waste And Pesticide Enforcement	Supervisor
+Edward Reilly	Solid Waste And Pesticide Enforcement	Supervisor
+Nancy Santiago	Solid Waste And Pesticide Enforcement	Supervisor
+Fran Sgro	Licensing And Pesticide Operations	Support Staff
+Hollie Ezze	Licensing And Pesticide Operations	Supervisor
+Linda Cantwell	Water Waste And Licensing	Supervisor
+Marcedius Jameson	Water And Land Use Enforcement	Director
+Lawrence Baier	Water And Land Use Enforcement	Bureau Chief
+Pete Keledy	Water And Land Use Enforcement	Supervisor
+Kamlo Si	Air And Hazardous Materials Enforcement	Operations Assistant
+Kelly Erbe	Local Environmental Management	Support Staff
+Thomas Morris	Air Compliance And Enforcement	Supervisor
+Ralph Bitter	Diesel Enforcement	Supervisor
+Chris Odgers	Air Compliance And Enforcement	Bureau Chief
+Sharon McNellis-Kissel	Public Health	Health Officer
+Bob Martin	Environmental Protection	Commissioner
+Martin Moore	Public Health	Principal Sanitary Inspector
+James A Brownlee	Public Health	Health Officer
+Amy Goldsmith	Clean Water	Director
+Terri Gabriel	Environmental Justice	Protestor
+Jeannette Rundquist	Hurricane Sandy	Journalist
+Peggy McClone	Nonprofits	Journalist
+Matt Friedman	Politics	Journalist
+Seth Augenstein	Environmental Justice	Journalist
+Alexi Friedman	Energy	Journalist
+Alexi Friedman	Environmental Standards	Journalist
+Ben Horowitz	Politics	Journalist
+Steve Strunsky	Port Authority	Journalist
+Stacie Servetah Sherman	Politics	Journalist
+Peter Montague	Environmental Justice	Journalist
+Janine G Bauer	Environmental and Land Use	Legal Expert
+Stuart J Lieberman	Environmental and Land Use	Legal Expert
+Bruce Winters	Plant Health and Forestry	Legal Expert
+Parker S Worthington	Environment	Legal Expert
+Jan E Bisco Werner	Environment	Legal Expert
+Wayne S Dubin	Environment	Legal Expert
+Gary Lovallo	Environment	Legal Expert
+Daniel Cornelius	Environment	Legal Expert
+Dennis M Galway	Environment	Legal Expert
+Lorraine M Konopka	Environment	Legal Expert
+Drew C Mason	Plant Health and Forestry	Legal Expert

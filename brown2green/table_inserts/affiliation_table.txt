@@ -3,7 +3,7 @@ Center For Disease Control And Prevention	404-639-3286	1600 Clifton Rd	Atlanta	G
 National Institute of Mental Health	301-496-5787	9000 Rockville Pike	Bethesda	Maryland	20982
 Mercer County Planning Division	609-278-7137	640 South Broad St	Trenton	New Jersey	08650
 Environmental Sanitation Division	215-345-3333	55 East Court Street	Doylestown	Pennsylvania	18901
-Environmental Services Of Burlington county	609-265-5515	15 Pioneer Blvd	Westhampton	New jersey	08060
+Environmental Services of Burlington County	609-265-5515	15 Pioneer Blvd	Westhampton	New jersey	08060
 Middlesex County Public Health Department	732-745-3123	75 Bayard St 5th Floor	New Brunswick	New Jersey	08901
 TCNJ	609-771-2131	2000 Pennington Rd	Ewing	New Jersey	08618
 Rutgers	732-445-4636	83 Somerset St	New Brunswick	New Jersey	08901
@@ -13,12 +13,11 @@ NJDEP	609-777-3373	401 East State St	Trenton	New Jersey	08608
 Ewing Township City Council	609-883-7695	2 Jake Garzio Drive	Ewing	New Jersey	08618
 The City Of Trenton Division Of Health	609-989-3242	19 East State St	Trenton	New Jersey	08608
 Clean Water Action	732-963-9714	198 Brighton Ave	Long Branch	New Jersey	07740
-New Jersey Environmental Justice Alliance					
 Delaware Riverkeeper Network	215-369-1188	925 Canal Street	Bristol	Pennsylvania	19007
 Star Ledger	732-560-1560	20 Duke Rd	Piscataway	New Jersey	08854
 Statehouse News Bureau	614-221-1811	Room 015 The Statehouse	Columbus	Ohio	43215
 Environmental Research Foundation	732-828-9995	P.O. Box 160	New Brunswick	New Jersey	08908
 Geosyntec Consultants	609-895-1400	7 Graphics Dr	Ewing	New Jersey	08628
-"CSG Environmental Consultants, Inc."	609-393-4442	109 Renfrew Ave	Trenton	New Jersey	08618
-"Sovereign Consulting, Inc."	609-259-8200	111A N Gold Dr	Trenton	New Jersey	08691
+CSG Environmental Consultants, Inc.	609-393-4442	109 Renfrew Ave	Trenton	New Jersey	08618
+Sovereign Consulting, Inc.	609-259-8200	111A N Gold Dr	Trenton	New Jersey	08691
 USA Environmental Management	609-656-8101	344 West State St	Trenton	New Jersey	08618

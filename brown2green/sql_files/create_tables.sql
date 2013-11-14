@@ -9,7 +9,7 @@ Create table person (
 );
 
 Create table expert (
-	id integer,
+	id integer, 
 	area_of_expertise VARCHAR(64),
 	title VARCHAR(64),
 	CONSTRAINT person_id_fkey FOREIGN KEY (id) REFERENCES person (id) on delete cascade 
