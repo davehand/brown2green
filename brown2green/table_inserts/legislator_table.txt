@@ -1,1 +1,42 @@
-name	party	district_num	ray_elected	ssame
+name	party	district_num	day_elected	sname
+Valerie Vainieri Huttle	democrat	37		New Jersey
+Brian E Rumpf	republican	9	2003-01-01	New Jersey
+Celeste M Riley	democrat	3	2009-01-01	New Jersey
+Charles Mainor	democrat	31	2010-01-01	New Jersey
+Connie Wagner	democrat	38	2008-01-01	New Jersey
+Daniel R Benson	democrat	14	2011-01-01	New Jersey
+Diane B Allen	republican	7	1998-01-01	New Jersey
+DiAnne C Gove	republican	9	2009-01-01	New Jersey
+Herb Conaway Jr	democrat	7	1998-01-01	New Jersey
+Patrick J Diegnan Jr	democrat	18		New Jersey
+Peter J Barnes III	democrat	18		New Jersey
+Ralph R Caputo	democrat	28		New Jersey
+Upendra J Chivukula	democrat	17		New Jersey
+Vincent Prieto	democrat	32		New Jersey
+Annette Quijano	democrat	20		New Jersey
+Nelson T Albano	democrat	1		New Jersey
+Reed Gusciora	democrat	15		New Jersey
+Ruben J Ramos Jr	democrat	33		New Jersey
+Matthew W Milam	democrat	1	2008-01-01	New Jersey
+Jeff Van Drew	democrat	1	2008-01-01	New Jersey
+Joesph M Kryillos	democrat	13	1992-01-01	New Jersey
+John F Amodeo	democrat	2	2008-01-01	New Jersey
+John F McKeon	democrat	27	2002-01-01	New Jersey
+John J Burzichelli	democrat	3	2002-01-01	New Jersey
+John S Wisniewski	democrat	19	1996-01-01	New Jersey
+Linda Stender	democrat	22	2002-01-01	New Jersey
+Mila M Jasey	democrat	27	2007-01-01	New Jersey
+Sean T Kean	democrat	0		New Jersey
+Barbara Buono	democrat	0	2002-01-01	New Jersey
+Bob Smith	democrat	0	2002-01-01	New Jersey
+Brian P Stack	democrat	0	2008-01-01	New Jersey
+Christopher Bateman	republican	0	2008-01-01	New Jersey
+Christopher J Connors	republican	0	2008-01-01	New Jersey
+Nia H Gill	democrat	0		New Jersey
+Shirley K Turner	democrat	0		New Jersey
+Robert M Gordon	democrat	0		New Jersey
+James Beach	democrat	0	2009-01-01	New Jersey
+Jennifer Beck	republican	0	2008-01-01	New Jersey
+Jim Whelan	democrat	0	2008-01-01	New Jersey
+Linda R Greenstein	democrat	0	2010-01-01	New Jersey
+Loretta Weinberg	democrat	0	2005-01-01	New Jersey

@@ -21,8 +21,7 @@ Create table legislator (
 	district_num integer,
 	day_elected date,
 	sname VARCHAR(64),
-	CONSTRAINT legislator_id_fkey FOREIGN KEY (id) REFERENCES person (id) on delete cascade,
-	CONSTRAINT state_name_fkey FOREIGN KEY (sname) REFERENCES state (name) on delete restrict
+	CONSTRAINT legislator_id_fkey FOREIGN KEY (id) REFERENCES person (id) on delete cascade
 );
 
 Create table affiliation (
