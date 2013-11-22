@@ -1,0 +1,830 @@
+ id | name | phone | email | text_desc | photo 
+----+------+-------+-------+-----------+-------
+(0 rows)
+
+ id |  party   | district_num | day_elected |   sname    
+----+----------+--------------+-------------+------------
+ 59 | democrat |           37 |             | New Jersey
+ 61 | democrat |            3 | 2009-01-01  | New Jersey
+ 62 | democrat |           31 | 2010-01-01  | New Jersey
+ 63 | democrat |           38 | 2008-01-01  | New Jersey
+ 64 | democrat |           14 | 2011-01-01  | New Jersey
+ 67 | democrat |            7 | 1998-01-01  | New Jersey
+ 68 | democrat |           18 |             | New Jersey
+ 69 | democrat |           18 |             | New Jersey
+ 70 | democrat |           28 |             | New Jersey
+ 71 | democrat |           17 |             | New Jersey
+ 72 | democrat |           32 |             | New Jersey
+ 73 | democrat |           20 |             | New Jersey
+ 74 | democrat |            1 |             | New Jersey
+ 75 | democrat |           15 |             | New Jersey
+ 76 | democrat |           33 |             | New Jersey
+ 77 | democrat |            1 | 2008-01-01  | New Jersey
+ 78 | democrat |            1 | 2008-01-01  | New Jersey
+ 79 | democrat |           13 | 1992-01-01  | New Jersey
+ 80 | democrat |            2 | 2008-01-01  | New Jersey
+ 81 | democrat |           27 | 2002-01-01  | New Jersey
+ 82 | democrat |            3 | 2002-01-01  | New Jersey
+ 83 | democrat |           19 | 1996-01-01  | New Jersey
+ 84 | democrat |           22 | 2002-01-01  | New Jersey
+ 85 | democrat |           27 | 2007-01-01  | New Jersey
+ 86 | democrat |            0 |             | New Jersey
+ 87 | democrat |            0 | 2002-01-01  | New Jersey
+ 88 | democrat |            0 | 2002-01-01  | New Jersey
+ 89 | democrat |            0 | 2008-01-01  | New Jersey
+ 92 | democrat |            0 |             | New Jersey
+ 93 | democrat |            0 |             | New Jersey
+ 94 | democrat |            0 |             | New Jersey
+ 95 | democrat |            0 | 2009-01-01  | New Jersey
+ 97 | democrat |            0 | 2008-01-01  | New Jersey
+ 98 | democrat |            0 | 2010-01-01  | New Jersey
+ 99 | democrat |            0 | 2005-01-01  | New Jersey
+(35 rows)
+
+ id |  party   | district_num | day_elected |   sname    
+----+----------+--------------+-------------+------------
+ 81 | democrat |           27 | 2002-01-01  | New Jersey
+ 85 | democrat |           27 | 2007-01-01  | New Jersey
+(2 rows)
+
+ id |   party    | district_num | day_elected |   sname    
+----+------------+--------------+-------------+------------
+ 59 | democrat   |           37 |             | New Jersey
+ 60 | republican |            9 | 2003-01-01  | New Jersey
+ 61 | democrat   |            3 | 2009-01-01  | New Jersey
+ 62 | democrat   |           31 | 2010-01-01  | New Jersey
+ 63 | democrat   |           38 | 2008-01-01  | New Jersey
+ 64 | democrat   |           14 | 2011-01-01  | New Jersey
+ 65 | republican |            7 | 1998-01-01  | New Jersey
+ 66 | republican |            9 | 2009-01-01  | New Jersey
+ 67 | democrat   |            7 | 1998-01-01  | New Jersey
+ 68 | democrat   |           18 |             | New Jersey
+ 69 | democrat   |           18 |             | New Jersey
+ 70 | democrat   |           28 |             | New Jersey
+ 71 | democrat   |           17 |             | New Jersey
+ 72 | democrat   |           32 |             | New Jersey
+ 73 | democrat   |           20 |             | New Jersey
+ 74 | democrat   |            1 |             | New Jersey
+ 75 | democrat   |           15 |             | New Jersey
+ 76 | democrat   |           33 |             | New Jersey
+ 77 | democrat   |            1 | 2008-01-01  | New Jersey
+ 78 | democrat   |            1 | 2008-01-01  | New Jersey
+ 79 | democrat   |           13 | 1992-01-01  | New Jersey
+ 80 | democrat   |            2 | 2008-01-01  | New Jersey
+ 81 | democrat   |           27 | 2002-01-01  | New Jersey
+ 82 | democrat   |            3 | 2002-01-01  | New Jersey
+ 83 | democrat   |           19 | 1996-01-01  | New Jersey
+ 84 | democrat   |           22 | 2002-01-01  | New Jersey
+ 85 | democrat   |           27 | 2007-01-01  | New Jersey
+ 86 | democrat   |            0 |             | New Jersey
+ 87 | democrat   |            0 | 2002-01-01  | New Jersey
+ 88 | democrat   |            0 | 2002-01-01  | New Jersey
+ 89 | democrat   |            0 | 2008-01-01  | New Jersey
+ 90 | republican |            0 | 2008-01-01  | New Jersey
+ 91 | republican |            0 | 2008-01-01  | New Jersey
+ 92 | democrat   |            0 |             | New Jersey
+ 93 | democrat   |            0 |             | New Jersey
+ 94 | democrat   |            0 |             | New Jersey
+ 95 | democrat   |            0 | 2009-01-01  | New Jersey
+ 96 | republican |            0 | 2008-01-01  | New Jersey
+ 97 | democrat   |            0 | 2008-01-01  | New Jersey
+ 98 | democrat   |            0 | 2010-01-01  | New Jersey
+ 99 | democrat   |            0 | 2005-01-01  | New Jersey
+(41 rows)
+
+ id | area_of_expertise |                          title                          
+----+-------------------+---------------------------------------------------------
+  1 | Public Health     | Director
+  2 | Public Health     | Associate Director For Communications And Public Liason
+  3 | Public Health     | Media Contact
+  4 | Public Health     | Bureau Director
+ 11 | Public Health     | Sociology Professor
+ 33 | Public Health     | Health Officer
+ 35 | Public Health     | Principal Sanitary Inspector
+ 36 | Public Health     | Health Officer
+ 37 | Clean Water       | Director
+(9 rows)
+
+ id |     area_of_expertise      |    title     
+----+----------------------------+--------------
+ 48 | Environmental and Land Use | Legal Expert
+ 49 | Environmental and Land Use | Legal Expert
+ 50 | Plant Health and Forestry  | Legal Expert
+ 51 | Environment                | Legal Expert
+ 52 | Environment                | Legal Expert
+ 53 | Environment                | Legal Expert
+ 54 | Environment                | Legal Expert
+ 55 | Environment                | Legal Expert
+ 56 | Environment                | Legal Expert
+ 57 | Environment                | Legal Expert
+ 58 | Plant Health and Forestry  | Legal Expert
+(11 rows)
+
+           name            |                                             photo                                             
+---------------------------+-----------------------------------------------------------------------------------------------
+ Main Press Line           | 
+ John T. Burklow           | http://ocl.od.nih.gov/OCL_new/images/burklowimage.jpg
+ Julie Willmot             | http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/0e3/00f/28f93c4.jpg
+ William J Roth            | 
+ Tom Fox                   | 
+ Environmental Coordinator | 
+ Diane Bates               | http://sociology.pages.tcnj.edu/files/2011/07/bates.jpg
+ Joanne Billmers           | http://science.pages.tcnj.edu/files/2012/03/billmers.png
+ Matthew Bender            | http://history.pages.tcnj.edu/files/2012/01/bender.jpg
+ Luke Butler               | https://www.tcnj.edu/~lbutler/Luke_K_Butler/Luke_K._Butler_files/ButlerHeadShot.jpg
+ J Lynn Gazley             | http://sociology.pages.tcnj.edu/files/2012/08/Gazley-684x1024.jpg
+ Leona A Harris            | http://mathstat.pages.tcnj.edu/files/2011/06/leona.jpg
+ Lisa Rodenburg            | http://envsci.rutgers.edu/~rodenburg/web%20page/viewfaculty_files/image004.jpg
+ Peter Strom               | http://envsci.rutgers.edu/images/strom.jpg
+ Nicky Sheats              | http://weact.org/Portals/7/Sheats_Nicky_Headshot.JPG
+ Knute Jensen              | http://s3.amazonaws.com/everystockphoto/fspid30/10/29/22/53/fdujsg-10292253-o.jpg
+ Andrea Holden             | 
+ Brian Petitt              | 
+ John Pitonyaj             | 
+ Edward Reilly             | 
+ Nancy Santiago            | 
+ Fran Sgro                 | 
+ Hollie Ezze               | 
+ Linda Cantwell            | 
+ Marcedius Jameson         | 
+ Lawrence Baier            | 
+ Pete Keledy               | 
+ Kamlo Si                  | 
+ Kelly Erbe                | 
+ Thomas Morris             | 
+ Ralph Bitter              | 
+ Chris Odgers              | 
+ Sharon McNellis-Kissel    | 
+ Bob Martin                | http://nj.gov/governor/library/admin/BobMartin.jpg
+ Martin Moore              | 
+ James A Brownlee          | http://www.trentonnj.org/images/20120706-_MR493261.jpg
+ Amy Goldsmith             | http://www.cleanwateraction.org/files/images/nj/staff/amy%20goldsmith.jpg
+ Peter Montague            | http://blog.nj.com/njv_bill_wolfe/2008/05/medium_IMG_4969.JPG
+ Terri Gabriel             | 
+ Jeannette Rundquist       | http://media.nj.com/avatars/3106.png
+ Peggy McClone             | http://media.nj.com/avatars/2065.png
+ Matt Friedman             | https://pbs.twimg.com/profile_images/378800000158261782/4acf544bcc617151354023d5a06b4a0f.jpeg
+ Seth Augenstein           | http://media.nj.com/avatars/8847793.png
+ Alexi Friedman            | http://media.nj.com/avatars/2737.png
+ Ben Horowitz              | http://media.nj.com/avatars/5142.png
+ Steve Strunsky            | https://pbs.twimg.com/profile_images/2429237728/oeknbifad3dtctgha3ie.jpeg
+ Stacie Servetah Sherman   | https://pbs.twimg.com/profile_images/1309322309/photo.jpg
+ Janine G Bauer            | http://njplanning.org/wp-content/uploads/Janine-Bauer-300x300.jpg
+ Stuart J Lieberman        | http://www.liebermanblecher.com/liebermanblecher/img/attorneys/stuart-lieberman.jpg
+ Bruce Winters             | 
+ Parker S Worthington      | 
+ Jan E Bisco Werner        | 
+ Wayne S Dubin             | 
+ Gary Lovallo              | 
+ Daniel Cornelius          | 
+ Dennis M Galway           | 
+ Lorraine M Konopka        | 
+ Drew C Mason              | 
+ Valerie Vainieri Huttle   | http://www.njleg.state.nj.us/members/memberphotos/huttle_color.jpg
+ Brian E Rumpf             | http://www.njleg.state.nj.us/members/memberphotos/rumpf_color.jpg
+ Celeste M Riley           | http://www.njleg.state.nj.us/members/memberphotos/riley_color.jpg
+ Charles Mainor            | http://www.njleg.state.nj.us/members/memberphotos/mainor_color.jpg
+ Connie Wagner             | http://www.njleg.state.nj.us/members/memberphotos/wagner_color.jpg
+ Daniel R Benson           | http://www.njleg.state.nj.us/members/memberphotos/benson_color.jpg
+ Diane B Allen             | http://www.njleg.state.nj.us/members/memberphotos/allen_color.jpg
+ DiAnne C Gove             | http://www.njleg.state.nj.us/members/memberphotos/gove_color.jpg
+ Herb Conaway Jr           | http://www.njleg.state.nj.us/members/memberphotos/conaway_color.jpg
+ Patrick J Diegnan Jr      | http://www.njleg.state.nj.us/members/memberphotos/diegnan_color.jpg
+ Peter J Barnes III        | http://www.njleg.state.nj.us/members/memberphotos/barnes_color.jpg
+ Ralph R Caputo            | http://www.njleg.state.nj.us/members/memberphotos/caputo_color.jpg
+ Upendra J Chivukula       | http://www.njleg.state.nj.us/members/memberphotos/chivukula_color.jpg
+ Vincent Prieto            | http://www.njleg.state.nj.us/members/memberphotos/prieto_color.jpg
+ Annette Quijano           | http://www.njleg.state.nj.us/members/memberphotos/quijano_color.jpg
+ Nelson T Albano           | http://www.njleg.state.nj.us/members/memberphotos/albano_color.jpg
+ Reed Gusciora             | http://www.njleg.state.nj.us/members/memberphotos/gusciora_color.jpg
+ Ruben J Ramos Jr          | http://www.njleg.state.nj.us/members/memberphotos/ramos_color.jpg
+ Matthew W Milam           | http://www.njleg.state.nj.us/members/memberphotos/milam_color.jpg
+ Jeff Van Drew             | http://www.njleg.state.nj.us/members/memberphotos/vandrew_color.jpg
+ Joesph M Kryillos         | http://www.njleg.state.nj.us/members/memberphotos/kyrillos_color.jpg
+ John F Amodeo             | http://www.njleg.state.nj.us/members/memberphotos/amodeo_color.jpg
+ John F McKeon             | http://www.njleg.state.nj.us/members/memberphotos/mckeon_color.jpg
+ John J Burzichelli        | http://www.njleg.state.nj.us/members/memberphotos/burzichelli_color.jpg
+ John S Wisniewski         | http://www.njleg.state.nj.us/members/memberphotos/wisniewski_color.jpg
+ Linda Stender             | http://www.njleg.state.nj.us/members/memberphotos/stender_color.jpg
+ Mila M Jasey              | http://www.njleg.state.nj.us/members/memberphotos/jasey_color.jpg
+ Sean T Kean               | http://www.njleg.state.nj.us/members/memberphotos/kean_sean_color.jpg
+ Barbara Buono             | http://www.njleg.state.nj.us/members/memberphotos/buono_color.jpg
+ Bob Smith                 | http://www.njleg.state.nj.us/members/memberphotos/smith_color.jpg
+ Brian P Stack             | http://www.njleg.state.nj.us/members/memberphotos/stack_color.jpg
+ Christopher Bateman       | http://www.njleg.state.nj.us/members/memberphotos/bateman_color.jpg
+ Christopher J Connors     | http://www.njleg.state.nj.us/members/memberphotos/connors_chris_color.jpg
+ Nia H Gill                | http://www.njleg.state.nj.us/members/memberphotos/gill_color.jpg
+ Shirley K Turner          | http://www.njleg.state.nj.us/members/memberphotos/turner_color.jpg
+ Robert M Gordon           | http://www.njleg.state.nj.us/members/memberphotos/gordon_color.jpg
+ James Beach               | http://www.njleg.state.nj.us/members/memberphotos/beach_color.jpg
+ Jennifer Beck             | http://www.njleg.state.nj.us/members/memberphotos/beck_color.jpg
+ Jim Whelan                | http://www.njleg.state.nj.us/members/memberphotos/whelan_color.jpg
+ Linda R Greenstein        | http://www.njleg.state.nj.us/members/memberphotos/greenstein_color.jpg
+ Loretta Weinberg          | http://www.njleg.state.nj.us/members/memberphotos/weinberg_color.jpg
+(99 rows)
+
+ id |           name            |    phone     |            email             | text_desc |                                             photo                                             
+----+---------------------------+--------------+------------------------------+-----------+-----------------------------------------------------------------------------------------------
+ 44 | Alexi Friedman            | 973-392-4147 | afriedman@starledger.com     |           | http://media.nj.com/avatars/2737.png
+ 37 | Amy Goldsmith             |              | agoldsmith@cleanwater.org    |           | http://www.cleanwateraction.org/files/images/nj/staff/amy%20goldsmith.jpg
+ 17 | Andrea Holden             | 609-984-9656 |                              |           | 
+ 73 | Annette Quijano           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/quijano_color.jpg
+ 87 | Barbara Buono             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/buono_color.jpg
+ 45 | Ben Horowitz              |              |                              |           | http://media.nj.com/avatars/5142.png
+ 34 | Bob Martin                | 609-292-2885 |                              |           | http://nj.gov/governor/library/admin/BobMartin.jpg
+ 88 | Bob Smith                 |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/smith_color.jpg
+ 60 | Brian E Rumpf             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/rumpf_color.jpg
+ 18 | Brian Petitt              | 609-341-5440 |                              |           | 
+ 89 | Brian P Stack             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/stack_color.jpg
+ 50 | Bruce Winters             | 732-736-9591 |                              |           | 
+ 61 | Celeste M Riley           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/riley_color.jpg
+ 62 | Charles Mainor            |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/mainor_color.jpg
+ 32 | Chris Odgers              | 609-292-3187 |                              |           | 
+ 90 | Christopher Bateman       |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/bateman_color.jpg
+ 91 | Christopher J Connors     |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/connors_chris_color.jpg
+ 63 | Connie Wagner             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/wagner_color.jpg
+ 55 | Daniel Cornelius          | 609-758-1721 |                              |           | 
+ 64 | Daniel R Benson           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/benson_color.jpg
+ 56 | Dennis M Galway           | 908-696-9133 |                              |           | 
+ 65 | Diane B Allen             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/allen_color.jpg
+  7 | Diane Bates               | 609-771-3176 | bates@tcnj.edu               |           | http://sociology.pages.tcnj.edu/files/2011/07/bates.jpg
+ 66 | DiAnne C Gove             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/gove_color.jpg
+ 58 | Drew C Mason              | 215-504-1159 |                              |           | 
+ 20 | Edward Reilly             | 609-530-4097 |                              |           | 
+  6 | Environmental Coordinator | 732-745-3123 |                              |           | 
+ 22 | Fran Sgro                 | 609-984-6923 |                              |           | 
+ 54 | Gary Lovallo              | 732-525-5656 |                              |           | 
+ 67 | Herb Conaway Jr           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/conaway_color.jpg
+ 23 | Hollie Ezze               | 609-984-6666 |                              |           | 
+ 36 | James A Brownlee          | 609-989-3242 | jbrownlee@trentonnj.org      |           | http://www.trentonnj.org/images/20120706-_MR493261.jpg
+ 95 | James Beach               |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/beach_color.jpg
+ 52 | Jan E Bisco Werner        | 609-298-2999 |                              |           | 
+ 48 | Janine G Bauer            | 609-275-0400 | JBauer@szaferman.com         |           | http://njplanning.org/wp-content/uploads/Janine-Bauer-300x300.jpg
+ 40 | Jeannette Rundquist       |              |                              |           | http://media.nj.com/avatars/3106.png
+ 78 | Jeff Van Drew             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/vandrew_color.jpg
+ 96 | Jennifer Beck             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/beck_color.jpg
+ 97 | Jim Whelan                |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/whelan_color.jpg
+ 11 | J Lynn Gazley             | 609-771-2930 | gazley@tcnj.edu              |           | http://sociology.pages.tcnj.edu/files/2012/08/Gazley-684x1024.jpg
+  8 | Joanne Billmers           | 609-771-2957 | billmers@tcnj.edu            |           | http://science.pages.tcnj.edu/files/2012/03/billmers.png
+ 79 | Joesph M Kryillos         |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/kyrillos_color.jpg
+ 80 | John F Amodeo             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/amodeo_color.jpg
+ 81 | John F McKeon             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/mckeon_color.jpg
+ 82 | John J Burzichelli        |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/burzichelli_color.jpg
+ 19 | John Pitonyaj             | 609-984-6652 |                              |           | 
+ 83 | John S Wisniewski         |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/wisniewski_color.jpg
+  2 | John T. Burklow           | 301-496-5787 |                              |           | http://ocl.od.nih.gov/OCL_new/images/burklowimage.jpg
+  3 | Julie Willmot             | 609-278-7137 |                              |           | http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/0e3/00f/28f93c4.jpg
+ 28 | Kamlo Si                  | 609-633-7288 |                              |           | 
+ 29 | Kelly Erbe                | 609-292-1305 |                              |           | 
+ 16 | Knute Jensen              | 609-292-6704 | capitallifetrenton@gmail.com |           | http://s3.amazonaws.com/everystockphoto/fspid30/10/29/22/53/fdujsg-10292253-o.jpg
+ 26 | Lawrence Baier            | 609-292-1240 |                              |           | 
+ 12 | Leona A Harris            | 609-771-3084 | harrisl@tcnj.edu             |           | http://mathstat.pages.tcnj.edu/files/2011/06/leona.jpg
+ 24 | Linda Cantwell            | 609-777-1009 |                              |           | 
+ 98 | Linda R Greenstein        |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/greenstein_color.jpg
+ 84 | Linda Stender             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/stender_color.jpg
+ 13 | Lisa Rodenburg            | 848-932-5774 | rodenburg@envsci.rutgers.edu |           | http://envsci.rutgers.edu/~rodenburg/web%20page/viewfaculty_files/image004.jpg
+ 99 | Loretta Weinberg          |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/weinberg_color.jpg
+ 57 | Lorraine M Konopka        | 073-276-0599 |                              |           | 
+ 10 | Luke Butler               | 609-771-2531 | lbutler@tcnj.edu             |           | https://www.tcnj.edu/~lbutler/Luke_K_Butler/Luke_K._Butler_files/ButlerHeadShot.jpg
+  1 | Main Press Line           | 404-639-3286 | media@cdc.gov                |           | 
+ 25 | Marcedius Jameson         | 609-984-2010 |                              |           | 
+ 35 | Martin Moore              | 609-989-3280 | mmoore@trentonnj.org         |           | 
+ 42 | Matt Friedman             | 609-989-0324 | mfriedman@starledger.com     |           | https://pbs.twimg.com/profile_images/378800000158261782/4acf544bcc617151354023d5a06b4a0f.jpeg
+  9 | Matthew Bender            | 609-771-2158 | bender@tcnj.edu              |           | http://history.pages.tcnj.edu/files/2012/01/bender.jpg
+ 77 | Matthew W Milam           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/milam_color.jpg
+ 85 | Mila M Jasey              |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/jasey_color.jpg
+ 21 | Nancy Santiago            | 609-9846914  |                              |           | 
+ 74 | Nelson T Albano           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/albano_color.jpg
+ 92 | Nia H Gill                |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/gill_color.jpg
+ 15 | Nicky Sheats              | 609-777-4351 | nsheats@tesc.edu             |           | http://weact.org/Portals/7/Sheats_Nicky_Headshot.JPG
+ 51 | Parker S Worthington      | 609-859-1412 |                              |           | 
+ 68 | Patrick J Diegnan Jr      |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/diegnan_color.jpg
+ 41 | Peggy McClone             | 973-392-5982 | pmcglone@starledger.com      |           | http://media.nj.com/avatars/2065.png
+ 27 | Pete Keledy               | 609-292-1240 |                              |           | 
+ 69 | Peter J Barnes III        |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/barnes_color.jpg
+ 38 | Peter Montague            | 732-828-9995 | erf@rachel.org               |           | http://blog.nj.com/njv_bill_wolfe/2008/05/medium_IMG_4969.JPG
+ 14 | Peter Strom               | 848-932-5709 | strom@envsci.rutgers.edu     |           | http://envsci.rutgers.edu/images/strom.jpg
+ 31 | Ralph Bitter              | 609-292-3187 |                              |           | 
+ 70 | Ralph R Caputo            |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/caputo_color.jpg
+ 75 | Reed Gusciora             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/gusciora_color.jpg
+ 94 | Robert M Gordon           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/gordon_color.jpg
+ 76 | Ruben J Ramos Jr          |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/ramos_color.jpg
+ 86 | Sean T Kean               |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/kean_sean_color.jpg
+ 43 | Seth Augenstein           | 973-392-4169 | saugenstein@starledger.com   |           | http://media.nj.com/avatars/8847793.png
+ 33 | Sharon McNellis-Kissel    | 609-883-7695 | sm11@njlincs.net             |           | 
+ 93 | Shirley K Turner          |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/turner_color.jpg
+ 47 | Stacie Servetah Sherman   |              |                              |           | https://pbs.twimg.com/profile_images/1309322309/photo.jpg
+ 46 | Steve Strunsky            | 973-392-1544 | sstrunsky@starledger.com     |           | https://pbs.twimg.com/profile_images/2429237728/oeknbifad3dtctgha3ie.jpeg
+ 49 | Stuart J Lieberman        | 732-355-1311 | SJL@LiebermanBlecher.com     |           | http://www.liebermanblecher.com/liebermanblecher/img/attorneys/stuart-lieberman.jpg
+ 39 | Terri Gabriel             |              | drn@delawareriverkeeper.org  |           | 
+ 30 | Thomas Morris             | 609-292-3133 |                              |           | 
+  5 | Tom Fox                   | 609-265-5515 | tfox@co.burlington.nj.us     |           | 
+ 71 | Upendra J Chivukula       |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/chivukula_color.jpg
+ 59 | Valerie Vainieri Huttle   |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/huttle_color.jpg
+ 72 | Vincent Prieto            |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/prieto_color.jpg
+ 53 | Wayne S Dubin             | 973-983-7511 |                              |           | 
+  4 | William J Roth            | 215-345-3333 | wjroth@co.bucks.pa.us        |           | 
+(99 rows)
+
+ id |           name            |    phone     |            email             | text_desc |                                             photo                                             
+----+---------------------------+--------------+------------------------------+-----------+-----------------------------------------------------------------------------------------------
+  4 | William J Roth            | 215-345-3333 | wjroth@co.bucks.pa.us        |           | 
+ 53 | Wayne S Dubin             | 973-983-7511 |                              |           | 
+ 72 | Vincent Prieto            |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/prieto_color.jpg
+ 59 | Valerie Vainieri Huttle   |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/huttle_color.jpg
+ 71 | Upendra J Chivukula       |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/chivukula_color.jpg
+  5 | Tom Fox                   | 609-265-5515 | tfox@co.burlington.nj.us     |           | 
+ 30 | Thomas Morris             | 609-292-3133 |                              |           | 
+ 39 | Terri Gabriel             |              | drn@delawareriverkeeper.org  |           | 
+ 49 | Stuart J Lieberman        | 732-355-1311 | SJL@LiebermanBlecher.com     |           | http://www.liebermanblecher.com/liebermanblecher/img/attorneys/stuart-lieberman.jpg
+ 46 | Steve Strunsky            | 973-392-1544 | sstrunsky@starledger.com     |           | https://pbs.twimg.com/profile_images/2429237728/oeknbifad3dtctgha3ie.jpeg
+ 47 | Stacie Servetah Sherman   |              |                              |           | https://pbs.twimg.com/profile_images/1309322309/photo.jpg
+ 93 | Shirley K Turner          |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/turner_color.jpg
+ 33 | Sharon McNellis-Kissel    | 609-883-7695 | sm11@njlincs.net             |           | 
+ 43 | Seth Augenstein           | 973-392-4169 | saugenstein@starledger.com   |           | http://media.nj.com/avatars/8847793.png
+ 86 | Sean T Kean               |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/kean_sean_color.jpg
+ 76 | Ruben J Ramos Jr          |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/ramos_color.jpg
+ 94 | Robert M Gordon           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/gordon_color.jpg
+ 75 | Reed Gusciora             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/gusciora_color.jpg
+ 70 | Ralph R Caputo            |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/caputo_color.jpg
+ 31 | Ralph Bitter              | 609-292-3187 |                              |           | 
+ 14 | Peter Strom               | 848-932-5709 | strom@envsci.rutgers.edu     |           | http://envsci.rutgers.edu/images/strom.jpg
+ 38 | Peter Montague            | 732-828-9995 | erf@rachel.org               |           | http://blog.nj.com/njv_bill_wolfe/2008/05/medium_IMG_4969.JPG
+ 69 | Peter J Barnes III        |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/barnes_color.jpg
+ 27 | Pete Keledy               | 609-292-1240 |                              |           | 
+ 41 | Peggy McClone             | 973-392-5982 | pmcglone@starledger.com      |           | http://media.nj.com/avatars/2065.png
+ 68 | Patrick J Diegnan Jr      |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/diegnan_color.jpg
+ 51 | Parker S Worthington      | 609-859-1412 |                              |           | 
+ 15 | Nicky Sheats              | 609-777-4351 | nsheats@tesc.edu             |           | http://weact.org/Portals/7/Sheats_Nicky_Headshot.JPG
+ 92 | Nia H Gill                |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/gill_color.jpg
+ 74 | Nelson T Albano           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/albano_color.jpg
+ 21 | Nancy Santiago            | 609-9846914  |                              |           | 
+ 85 | Mila M Jasey              |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/jasey_color.jpg
+ 77 | Matthew W Milam           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/milam_color.jpg
+  9 | Matthew Bender            | 609-771-2158 | bender@tcnj.edu              |           | http://history.pages.tcnj.edu/files/2012/01/bender.jpg
+ 42 | Matt Friedman             | 609-989-0324 | mfriedman@starledger.com     |           | https://pbs.twimg.com/profile_images/378800000158261782/4acf544bcc617151354023d5a06b4a0f.jpeg
+ 35 | Martin Moore              | 609-989-3280 | mmoore@trentonnj.org         |           | 
+ 25 | Marcedius Jameson         | 609-984-2010 |                              |           | 
+  1 | Main Press Line           | 404-639-3286 | media@cdc.gov                |           | 
+ 10 | Luke Butler               | 609-771-2531 | lbutler@tcnj.edu             |           | https://www.tcnj.edu/~lbutler/Luke_K_Butler/Luke_K._Butler_files/ButlerHeadShot.jpg
+ 57 | Lorraine M Konopka        | 073-276-0599 |                              |           | 
+ 99 | Loretta Weinberg          |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/weinberg_color.jpg
+ 13 | Lisa Rodenburg            | 848-932-5774 | rodenburg@envsci.rutgers.edu |           | http://envsci.rutgers.edu/~rodenburg/web%20page/viewfaculty_files/image004.jpg
+ 84 | Linda Stender             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/stender_color.jpg
+ 98 | Linda R Greenstein        |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/greenstein_color.jpg
+ 24 | Linda Cantwell            | 609-777-1009 |                              |           | 
+ 12 | Leona A Harris            | 609-771-3084 | harrisl@tcnj.edu             |           | http://mathstat.pages.tcnj.edu/files/2011/06/leona.jpg
+ 26 | Lawrence Baier            | 609-292-1240 |                              |           | 
+ 16 | Knute Jensen              | 609-292-6704 | capitallifetrenton@gmail.com |           | http://s3.amazonaws.com/everystockphoto/fspid30/10/29/22/53/fdujsg-10292253-o.jpg
+ 29 | Kelly Erbe                | 609-292-1305 |                              |           | 
+ 28 | Kamlo Si                  | 609-633-7288 |                              |           | 
+  3 | Julie Willmot             | 609-278-7137 |                              |           | http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/0e3/00f/28f93c4.jpg
+  2 | John T. Burklow           | 301-496-5787 |                              |           | http://ocl.od.nih.gov/OCL_new/images/burklowimage.jpg
+ 83 | John S Wisniewski         |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/wisniewski_color.jpg
+ 19 | John Pitonyaj             | 609-984-6652 |                              |           | 
+ 82 | John J Burzichelli        |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/burzichelli_color.jpg
+ 81 | John F McKeon             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/mckeon_color.jpg
+ 80 | John F Amodeo             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/amodeo_color.jpg
+ 79 | Joesph M Kryillos         |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/kyrillos_color.jpg
+  8 | Joanne Billmers           | 609-771-2957 | billmers@tcnj.edu            |           | http://science.pages.tcnj.edu/files/2012/03/billmers.png
+ 11 | J Lynn Gazley             | 609-771-2930 | gazley@tcnj.edu              |           | http://sociology.pages.tcnj.edu/files/2012/08/Gazley-684x1024.jpg
+ 97 | Jim Whelan                |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/whelan_color.jpg
+ 96 | Jennifer Beck             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/beck_color.jpg
+ 78 | Jeff Van Drew             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/vandrew_color.jpg
+ 40 | Jeannette Rundquist       |              |                              |           | http://media.nj.com/avatars/3106.png
+ 48 | Janine G Bauer            | 609-275-0400 | JBauer@szaferman.com         |           | http://njplanning.org/wp-content/uploads/Janine-Bauer-300x300.jpg
+ 52 | Jan E Bisco Werner        | 609-298-2999 |                              |           | 
+ 95 | James Beach               |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/beach_color.jpg
+ 36 | James A Brownlee          | 609-989-3242 | jbrownlee@trentonnj.org      |           | http://www.trentonnj.org/images/20120706-_MR493261.jpg
+ 23 | Hollie Ezze               | 609-984-6666 |                              |           | 
+ 67 | Herb Conaway Jr           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/conaway_color.jpg
+ 54 | Gary Lovallo              | 732-525-5656 |                              |           | 
+ 22 | Fran Sgro                 | 609-984-6923 |                              |           | 
+  6 | Environmental Coordinator | 732-745-3123 |                              |           | 
+ 20 | Edward Reilly             | 609-530-4097 |                              |           | 
+ 58 | Drew C Mason              | 215-504-1159 |                              |           | 
+ 66 | DiAnne C Gove             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/gove_color.jpg
+  7 | Diane Bates               | 609-771-3176 | bates@tcnj.edu               |           | http://sociology.pages.tcnj.edu/files/2011/07/bates.jpg
+ 65 | Diane B Allen             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/allen_color.jpg
+ 56 | Dennis M Galway           | 908-696-9133 |                              |           | 
+ 64 | Daniel R Benson           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/benson_color.jpg
+ 55 | Daniel Cornelius          | 609-758-1721 |                              |           | 
+ 63 | Connie Wagner             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/wagner_color.jpg
+ 91 | Christopher J Connors     |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/connors_chris_color.jpg
+ 90 | Christopher Bateman       |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/bateman_color.jpg
+ 32 | Chris Odgers              | 609-292-3187 |                              |           | 
+ 62 | Charles Mainor            |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/mainor_color.jpg
+ 61 | Celeste M Riley           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/riley_color.jpg
+ 50 | Bruce Winters             | 732-736-9591 |                              |           | 
+ 89 | Brian P Stack             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/stack_color.jpg
+ 18 | Brian Petitt              | 609-341-5440 |                              |           | 
+ 60 | Brian E Rumpf             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/rumpf_color.jpg
+ 88 | Bob Smith                 |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/smith_color.jpg
+ 34 | Bob Martin                | 609-292-2885 |                              |           | http://nj.gov/governor/library/admin/BobMartin.jpg
+ 45 | Ben Horowitz              |              |                              |           | http://media.nj.com/avatars/5142.png
+ 87 | Barbara Buono             |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/buono_color.jpg
+ 73 | Annette Quijano           |              |                              |           | http://www.njleg.state.nj.us/members/memberphotos/quijano_color.jpg
+ 17 | Andrea Holden             | 609-984-9656 |                              |           | 
+ 37 | Amy Goldsmith             |              | agoldsmith@cleanwater.org    |           | http://www.cleanwateraction.org/files/images/nj/staff/amy%20goldsmith.jpg
+ 44 | Alexi Friedman            | 973-392-4147 | afriedman@starledger.com     |           | http://media.nj.com/avatars/2737.png
+(99 rows)
+
+                              name                              
+----------------------------------------------------------------
+ Center For Disease Control And Prevention
+ National Institute of Mental Health
+ Mercer County Planning Division
+ Environmental Sanitation Division
+ Environmental Services of Burlington County
+ Middlesex County Public Health Department
+ TCNJ
+ Rutgers
+ Thomas Edison State College
+ National Center For Neighborhood And Brownfields Redevelopment
+ NJDEP
+ Ewing Township City Council
+ The City Of Trenton Division Of Health
+ Clean Water Action
+ Delaware Riverkeeper Network
+ Star Ledger
+ Statehouse News Bureau
+ Environmental Research Foundation
+ Geosyntec Consultants
+ CSG Environmental Consultants, Inc.
+ Sovereign Consulting, Inc.
+ USA Environmental Management
+(22 rows)
+
+      name       | name 
+-----------------+------
+ Diane Bates     | TCNJ
+ Joanne Billmers | TCNJ
+ Matthew Bender  | TCNJ
+ Luke Butler     | TCNJ
+ J Lynn Gazley   | TCNJ
+ Leona A Harris  | TCNJ
+(6 rows)
+
+           name            |            email             |    phone     
+---------------------------+------------------------------+--------------
+ Main Press Line           | media@cdc.gov                | 404-639-3286
+ John T. Burklow           |                              | 301-496-5787
+ Julie Willmot             |                              | 609-278-7137
+ William J Roth            | wjroth@co.bucks.pa.us        | 215-345-3333
+ Tom Fox                   | tfox@co.burlington.nj.us     | 609-265-5515
+ Environmental Coordinator |                              | 732-745-3123
+ Diane Bates               | bates@tcnj.edu               | 609-771-3176
+ Joanne Billmers           | billmers@tcnj.edu            | 609-771-2957
+ Matthew Bender            | bender@tcnj.edu              | 609-771-2158
+ Luke Butler               | lbutler@tcnj.edu             | 609-771-2531
+ J Lynn Gazley             | gazley@tcnj.edu              | 609-771-2930
+ Leona A Harris            | harrisl@tcnj.edu             | 609-771-3084
+ Lisa Rodenburg            | rodenburg@envsci.rutgers.edu | 848-932-5774
+ Peter Strom               | strom@envsci.rutgers.edu     | 848-932-5709
+ Nicky Sheats              | nsheats@tesc.edu             | 609-777-4351
+ Knute Jensen              | capitallifetrenton@gmail.com | 609-292-6704
+ Andrea Holden             |                              | 609-984-9656
+ Brian Petitt              |                              | 609-341-5440
+ John Pitonyaj             |                              | 609-984-6652
+ Edward Reilly             |                              | 609-530-4097
+ Nancy Santiago            |                              | 609-9846914
+ Fran Sgro                 |                              | 609-984-6923
+ Hollie Ezze               |                              | 609-984-6666
+ Linda Cantwell            |                              | 609-777-1009
+ Marcedius Jameson         |                              | 609-984-2010
+ Lawrence Baier            |                              | 609-292-1240
+ Pete Keledy               |                              | 609-292-1240
+ Kamlo Si                  |                              | 609-633-7288
+ Kelly Erbe                |                              | 609-292-1305
+ Thomas Morris             |                              | 609-292-3133
+ Ralph Bitter              |                              | 609-292-3187
+ Chris Odgers              |                              | 609-292-3187
+ Sharon McNellis-Kissel    | sm11@njlincs.net             | 609-883-7695
+ Bob Martin                |                              | 609-292-2885
+ Martin Moore              | mmoore@trentonnj.org         | 609-989-3280
+ James A Brownlee          | jbrownlee@trentonnj.org      | 609-989-3242
+ Amy Goldsmith             | agoldsmith@cleanwater.org    | 
+ Peter Montague            | erf@rachel.org               | 732-828-9995
+ Terri Gabriel             | drn@delawareriverkeeper.org  | 
+ Jeannette Rundquist       |                              | 
+ Peggy McClone             | pmcglone@starledger.com      | 973-392-5982
+ Matt Friedman             | mfriedman@starledger.com     | 609-989-0324
+ Seth Augenstein           | saugenstein@starledger.com   | 973-392-4169
+ Alexi Friedman            | afriedman@starledger.com     | 973-392-4147
+ Ben Horowitz              |                              | 
+ Steve Strunsky            | sstrunsky@starledger.com     | 973-392-1544
+ Stacie Servetah Sherman   |                              | 
+ Janine G Bauer            | JBauer@szaferman.com         | 609-275-0400
+ Stuart J Lieberman        | SJL@LiebermanBlecher.com     | 732-355-1311
+ Bruce Winters             |                              | 732-736-9591
+ Parker S Worthington      |                              | 609-859-1412
+ Jan E Bisco Werner        |                              | 609-298-2999
+ Wayne S Dubin             |                              | 973-983-7511
+ Gary Lovallo              |                              | 732-525-5656
+ Daniel Cornelius          |                              | 609-758-1721
+ Dennis M Galway           |                              | 908-696-9133
+ Lorraine M Konopka        |                              | 073-276-0599
+ Drew C Mason              |                              | 215-504-1159
+ Valerie Vainieri Huttle   |                              | 
+ Brian E Rumpf             |                              | 
+ Celeste M Riley           |                              | 
+ Charles Mainor            |                              | 
+ Connie Wagner             |                              | 
+ Daniel R Benson           |                              | 
+ Diane B Allen             |                              | 
+ DiAnne C Gove             |                              | 
+ Herb Conaway Jr           |                              | 
+ Patrick J Diegnan Jr      |                              | 
+ Peter J Barnes III        |                              | 
+ Ralph R Caputo            |                              | 
+ Upendra J Chivukula       |                              | 
+ Vincent Prieto            |                              | 
+ Annette Quijano           |                              | 
+ Nelson T Albano           |                              | 
+ Reed Gusciora             |                              | 
+ Ruben J Ramos Jr          |                              | 
+ Matthew W Milam           |                              | 
+ Jeff Van Drew             |                              | 
+ Joesph M Kryillos         |                              | 
+ John F Amodeo             |                              | 
+ John F McKeon             |                              | 
+ John J Burzichelli        |                              | 
+ John S Wisniewski         |                              | 
+ Linda Stender             |                              | 
+ Mila M Jasey              |                              | 
+ Sean T Kean               |                              | 
+ Barbara Buono             |                              | 
+ Bob Smith                 |                              | 
+ Brian P Stack             |                              | 
+ Christopher Bateman       |                              | 
+ Christopher J Connors     |                              | 
+ Nia H Gill                |                              | 
+ Shirley K Turner          |                              | 
+ Robert M Gordon           |                              | 
+ James Beach               |                              | 
+ Jennifer Beck             |                              | 
+ Jim Whelan                |                              | 
+ Linda R Greenstein        |                              | 
+ Loretta Weinberg          |                              | 
+(99 rows)
+
+ id |    area_of_expertise    |        title        | id |      name       |    phone     |       email       | text_desc |                          photo                           | name |    phone     |       street       | city  |   state    | zipcode | id | aname 
+----+-------------------------+---------------------+----+-----------------+--------------+-------------------+-----------+----------------------------------------------------------+------+--------------+--------------------+-------+------------+---------+----+-------
+  7 | Environmental Sociology | Sociology Professor |  7 | Diane Bates     | 609-771-3176 | bates@tcnj.edu    |           | http://sociology.pages.tcnj.edu/files/2011/07/bates.jpg  | TCNJ | 609-771-2131 | 2000 Pennington Rd | Ewing | New Jersey | 08618   |  7 | TCNJ
+  8 | Green Chemistry         | Chemistry Professor |  8 | Joanne Billmers | 609-771-2957 | billmers@tcnj.edu |           | http://science.pages.tcnj.edu/files/2012/03/billmers.png | TCNJ | 609-771-2131 | 2000 Pennington Rd | Ewing | New Jersey | 08618   |  8 | TCNJ
+(2 rows)
+
+ id |     area_of_expertise      |              title              | id |    name     |    phone     |          email           | text_desc |                   photo                    |  name   |    phone     |     street     |     city      |   state    | zipcode | id |  aname  
+----+----------------------------+---------------------------------+----+-------------+--------------+--------------------------+-----------+--------------------------------------------+---------+--------------+----------------+---------------+------------+---------+----+---------
+ 14 | Biological Waste Treatment | Environmental Science Professor | 14 | Peter Strom | 848-932-5709 | strom@envsci.rutgers.edu |           | http://envsci.rutgers.edu/images/strom.jpg | Rutgers | 732-445-4636 | 83 Somerset St | New Brunswick | New Jersey | 08901   | 14 | Rutgers
+(1 row)
+
+       name        
+-------------------
+ Knute Jensen
+ Andrea Holden
+ Brian Petitt
+ John Pitonyaj
+ Edward Reilly
+ Nancy Santiago
+ Fran Sgro
+ Hollie Ezze
+ Linda Cantwell
+ Marcedius Jameson
+ Lawrence Baier
+ Pete Keledy
+ Kamlo Si
+ Kelly Erbe
+ Thomas Morris
+ Ralph Bitter
+ Chris Odgers
+ Bob Martin
+ Martin Moore
+(19 rows)
+
+      name      
+----------------
+ William J Roth
+ Peter Montague
+(2 rows)
+
+           name            |    state     
+---------------------------+--------------
+ Main Press Line           | Georgia
+ John T. Burklow           | Maryland
+ Tom Fox                   | New jersey
+ Diane Bates               | New Jersey
+ Joanne Billmers           | New Jersey
+ Matthew Bender            | New Jersey
+ Luke Butler               | New Jersey
+ J Lynn Gazley             | New Jersey
+ Leona A Harris            | New Jersey
+ Lisa Rodenburg            | New Jersey
+ Peter Strom               | New Jersey
+ Nicky Sheats              | New Jersey
+ Knute Jensen              | New Jersey
+ Andrea Holden             | New Jersey
+ Brian Petitt              | New Jersey
+ John Pitonyaj             | New Jersey
+ Edward Reilly             | New Jersey
+ Nancy Santiago            | New Jersey
+ Fran Sgro                 | New Jersey
+ Hollie Ezze               | New Jersey
+ Linda Cantwell            | New Jersey
+ Marcedius Jameson         | New Jersey
+ Lawrence Baier            | New Jersey
+ Pete Keledy               | New Jersey
+ Kamlo Si                  | New Jersey
+ Kelly Erbe                | New Jersey
+ Thomas Morris             | New Jersey
+ Ralph Bitter              | New Jersey
+ Chris Odgers              | New Jersey
+ Sharon McNellis-Kissel    | New Jersey
+ Bob Martin                | New Jersey
+ Martin Moore              | New Jersey
+ James A Brownlee          | New Jersey
+ Amy Goldsmith             | New Jersey
+ Peter Montague            | New Jersey
+ Julie Willmot             | New Jersey
+ Environmental Coordinator | New Jersey
+ Alexi Friedman            | New Jersey
+ Ben Horowitz              | New Jersey
+ Steve Strunsky            | New Jersey
+ Jeannette Rundquist       | New Jersey
+ Peggy McClone             | New Jersey
+ Matt Friedman             | New Jersey
+ Seth Augenstein           | New Jersey
+ Stacie Servetah Sherman   | Ohio
+ Terri Gabriel             | Pennsylvania
+ William J Roth            | Pennsylvania
+(47 rows)
+
+          name           |            area_of_expertise            
+-------------------------+-----------------------------------------
+ Kamlo Si                | Air And Hazardous Materials Enforcement
+ Chris Odgers            | Air Compliance And Enforcement
+ Thomas Morris           | Air Compliance And Enforcement
+ Joanne Billmers         | Biodegradable Materials
+ Peter Strom             | Biological Waste Treatment
+ Amy Goldsmith           | Clean Water
+ Ralph Bitter            | Diesel Enforcement
+ Alexi Friedman          | Energy
+ Matthew Bender          | Environmental History
+ Nicky Sheats            | Environmental Justice
+ Seth Augenstein         | Environmental Justice
+ Peter Montague          | Environmental Justice
+ Terri Gabriel           | Environmental Justice
+ Bob Martin              | Environmental Protection
+ Diane Bates             | Environmental Sociology
+ Alexi Friedman          | Environmental Standards
+ J Lynn Gazley           | Epidemiology
+ Joanne Billmers         | Green Chemistry
+ Leona A Harris          | Human Toxic Chemicals
+ Jeannette Rundquist     | Hurricane Sandy
+ Fran Sgro               | Licensing And Pesticide Operations
+ Hollie Ezze             | Licensing And Pesticide Operations
+ Kelly Erbe              | Local Environmental Management
+ Peggy McClone           | Nonprofits
+ Lisa Rodenburg          | Organic Contaminants
+ Luke Butler             | Pine Barrens Birds
+ Ben Horowitz            | Politics
+ Stacie Servetah Sherman | Politics
+ Matt Friedman           | Politics
+ Steve Strunsky          | Port Authority
+ Julie Willmot           | Public Health
+ Main Press Line         | Public Health
+ Sharon McNellis-Kissel  | Public Health
+ John T. Burklow         | Public Health
+ Martin Moore            | Public Health
+ James A Brownlee        | Public Health
+ William J Roth          | Public Health
+ J Lynn Gazley           | Public Health
+ Andrea Holden           | Solid Waste And Pesticide Enforcement
+ Nancy Santiago          | Solid Waste And Pesticide Enforcement
+ Edward Reilly           | Solid Waste And Pesticide Enforcement
+ John Pitonyaj           | Solid Waste And Pesticide Enforcement
+ Brian Petitt            | Solid Waste And Pesticide Enforcement
+ Knute Jensen            | Solid Waste And Pesticide Enforcement
+ Lawrence Baier          | Water And Land Use Enforcement
+ Marcedius Jameson       | Water And Land Use Enforcement
+ Pete Keledy             | Water And Land Use Enforcement
+ Linda Cantwell          | Water Waste And Licensing
+(48 rows)
+
+ name 
+------
+(0 rows)
+
+      name       
+-----------------
+ Main Press Line
+(1 row)
+
+                   name                    
+-------------------------------------------
+ Center For Disease Control And Prevention
+(1 row)
+
+                   aname                   |           name            
+-------------------------------------------+---------------------------
+ Center For Disease Control And Prevention | Main Press Line
+ Center For Disease Control And Prevention | John T. Burklow
+ Center For Disease Control And Prevention | Julie Willmot
+ Center For Disease Control And Prevention | William J Roth
+ Center For Disease Control And Prevention | Tom Fox
+ Center For Disease Control And Prevention | Environmental Coordinator
+ Center For Disease Control And Prevention | Diane Bates
+ Center For Disease Control And Prevention | Joanne Billmers
+ Center For Disease Control And Prevention | Matthew Bender
+ Center For Disease Control And Prevention | Luke Butler
+ Center For Disease Control And Prevention | J Lynn Gazley
+ Center For Disease Control And Prevention | Leona A Harris
+ Center For Disease Control And Prevention | Lisa Rodenburg
+ Center For Disease Control And Prevention | Peter Strom
+ Center For Disease Control And Prevention | Nicky Sheats
+ Center For Disease Control And Prevention | Knute Jensen
+ Center For Disease Control And Prevention | Andrea Holden
+ Center For Disease Control And Prevention | Brian Petitt
+ Center For Disease Control And Prevention | John Pitonyaj
+ Center For Disease Control And Prevention | Edward Reilly
+ Center For Disease Control And Prevention | Nancy Santiago
+ Center For Disease Control And Prevention | Fran Sgro
+ Center For Disease Control And Prevention | Hollie Ezze
+ Center For Disease Control And Prevention | Linda Cantwell
+ Center For Disease Control And Prevention | Marcedius Jameson
+ Center For Disease Control And Prevention | Lawrence Baier
+ Center For Disease Control And Prevention | Pete Keledy
+ Center For Disease Control And Prevention | Kamlo Si
+ Center For Disease Control And Prevention | Kelly Erbe
+ Center For Disease Control And Prevention | Thomas Morris
+ Center For Disease Control And Prevention | Ralph Bitter
+ Center For Disease Control And Prevention | Chris Odgers
+ Center For Disease Control And Prevention | Sharon McNellis-Kissel
+ Center For Disease Control And Prevention | Bob Martin
+ Center For Disease Control And Prevention | Martin Moore
+ Center For Disease Control And Prevention | James A Brownlee
+ Center For Disease Control And Prevention | Amy Goldsmith
+ Center For Disease Control And Prevention | Peter Montague
+ Center For Disease Control And Prevention | Terri Gabriel
+ Center For Disease Control And Prevention | Jeannette Rundquist
+ Center For Disease Control And Prevention | Peggy McClone
+ Center For Disease Control And Prevention | Matt Friedman
+ Center For Disease Control And Prevention | Seth Augenstein
+ Center For Disease Control And Prevention | Alexi Friedman
+ Center For Disease Control And Prevention | Ben Horowitz
+ Center For Disease Control And Prevention | Steve Strunsky
+ Center For Disease Control And Prevention | Stacie Servetah Sherman
+ Center For Disease Control And Prevention | Janine G Bauer
+ Center For Disease Control And Prevention | Stuart J Lieberman
+ Center For Disease Control And Prevention | Bruce Winters
+ Center For Disease Control And Prevention | Parker S Worthington
+ Center For Disease Control And Prevention | Jan E Bisco Werner
+ Center For Disease Control And Prevention | Wayne S Dubin
+ Center For Disease Control And Prevention | Gary Lovallo
+ Center For Disease Control And Prevention | Daniel Cornelius
+ Center For Disease Control And Prevention | Dennis M Galway
+ Center For Disease Control And Prevention | Lorraine M Konopka
+ Center For Disease Control And Prevention | Drew C Mason
+ Center For Disease Control And Prevention | Valerie Vainieri Huttle
+ Center For Disease Control And Prevention | Brian E Rumpf
+ Center For Disease Control And Prevention | Celeste M Riley
+ Center For Disease Control And Prevention | Charles Mainor
+ Center For Disease Control And Prevention | Connie Wagner
+ Center For Disease Control And Prevention | Daniel R Benson
+ Center For Disease Control And Prevention | Diane B Allen
+ Center For Disease Control And Prevention | DiAnne C Gove
+ Center For Disease Control And Prevention | Herb Conaway Jr
+ Center For Disease Control And Prevention | Patrick J Diegnan Jr
+ Center For Disease Control And Prevention | Peter J Barnes III
+ Center For Disease Control And Prevention | Ralph R Caputo
+ Center For Disease Control And Prevention | Upendra J Chivukula
+ Center For Disease Control And Prevention | Vincent Prieto
+ Center For Disease Control And Prevention | Annette Quijano
+ Center For Disease Control And Prevention | Nelson T Albano
+ Center For Disease Control And Prevention | Reed Gusciora
+ Center For Disease Control And Prevention | Ruben J Ramos Jr
+ Center For Disease Control And Prevention | Matthew W Milam
+ Center For Disease Control And Prevention | Jeff Van Drew
+ Center For Disease Control And Prevention | Joesph M Kryillos
+ Center For Disease Control And Prevention | John F Amodeo
+ Center For Disease Control And Prevention | John F McKeon
+ Center For Disease Control And Prevention | John J Burzichelli
+ Center For Disease Control And Prevention | John S Wisniewski
+ Center For Disease Control And Prevention | Linda Stender
+ Center For Disease Control And Prevention | Mila M Jasey
+ Center For Disease Control And Prevention | Sean T Kean
+ Center For Disease Control And Prevention | Barbara Buono
+ Center For Disease Control And Prevention | Bob Smith
+ Center For Disease Control And Prevention | Brian P Stack
+ Center For Disease Control And Prevention | Christopher Bateman
+ Center For Disease Control And Prevention | Christopher J Connors
+ Center For Disease Control And Prevention | Nia H Gill
+ Center For Disease Control And Prevention | Shirley K Turner
+ Center For Disease Control And Prevention | Robert M Gordon
+ Center For Disease Control And Prevention | James Beach
+ Center For Disease Control And Prevention | Jennifer Beck
+ Center For Disease Control And Prevention | Jim Whelan
+ Center For Disease Control And Prevention | Linda R Greenstein
+ Center For Disease Control And Prevention | Loretta Weinberg
+(99 rows)
+
