@@ -30,14 +30,17 @@
 		<?php
 			#basic search
 			function general_search($t, $p, $q) {
-		  	$db_connection = pg_connect("host=csprojects.tcnj.edu
+		  	
+				# connect to psql
+				$db_connection = pg_connect("host=csprojects.tcnj.edu
 																		port=5432 
 																		dbname=team1d 
 																		user=team1d 
 																		password=pulimood")
 																		or die("Could not connect to PSQL\n");
 
-				
+				# Query Database
+				# If legislator or expert, join with person to get contact info
 				if ($t == "legislator" || $t == "expert") {
 					$result = pg_query($db_connection, "SELECT * FROM PERSON, $t WHERE PERSON.id = $t.id AND $p LIKE '%$q%'")
 					or die("No results\n");
@@ -46,6 +49,7 @@
 					or die("No Results\n");
 				}
 
+				# Format output for Person
 				if ($t == person) {
 					echo "<table>";
 
@@ -62,6 +66,7 @@
 					echo "</table>";
 				}
 
+				# Format output for Expert
 				if ($t == expert) {
 					echo "<table>";
 
@@ -80,6 +85,7 @@
 					echo "</table>";
 				}
 
+				# Format output for legislator
 				if ($t == legislator) {
 					echo "<table>";
 					
@@ -97,7 +103,8 @@
 					
 					echo "</table>";
 				}
-
+				
+				# Format output for affiliation
 				if ($t == affiliation) {
 					echo "<table>";
 				
@@ -118,6 +125,7 @@
 				}
 			}	
 
+			# Pass POST parameters to the general search function
 			general_search($_POST["t"], $_POST["p"], $_POST["q"])
 
 		?><br>
