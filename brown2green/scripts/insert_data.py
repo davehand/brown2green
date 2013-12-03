@@ -3,14 +3,18 @@
 import os
 import sys
 
+#read all lines from input file specified on command line
 with open(sys.argv[1]) as file:
 	lines = file.readlines()
 
+#initialize variables for loop
 count=0
 row_one = []
 cols = []
 header_string = "" 
 
+#for each line of the file, begin creating the insert sql statement
+#write each insert statement to file specified on command line
 for line in lines:
 	if (count==0):
 		row_one = line.split("\t")
