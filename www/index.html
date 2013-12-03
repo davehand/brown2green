@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Person Search - Team 1 - SOAP</title>
+		<style>
+			body {
+				font-family: Sans-Serif;
+				text-align: center;
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1>Person Search - Team 1 - SOAP</h1>
+		
+		<form action="search.php" id="search_field" method="post">
+			Search Database: <input class="search-box" type="search" name="q"><br>
+			<select name="t" form="search_field">
+				<option value="person">Person</option>
+				<option value="affiliation">Affiliation</option>
+				<option value="expert">Expert</option>
+				<option value="legislator">Legislator</option>
+			</select>
+		
+			<select name="p" form="search_field">
+				<option value="id">id</value>
+				<option value="name">name</value>			
+				<option value="phone">phone</value>			
+				<option value="email">email</value>
+				<option value="street">street</value>
+				<option value="city">city</value>
+				<option value="state">state</value>
+				<option value="zipcode">zipcode</value>
+				<option value="area_of_expertise">expertise</option>
+				<option value="title">title</option>
+				<option value="party">party</option>
+				<option value="district_num">district number</option>
+			</select>
+			<input type="submit">
+		</form>
+	</body>
+
+</html>
